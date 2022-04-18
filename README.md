@@ -1,2 +1,4 @@
 # K-means_iris_dataset-The-Sparks-Foundation-task2-
-Clustering for iris data (Flower data)
+Clustering using K-means for iris dataset.
+
+Iris Dataset: https://www.kaggle.com/arshid/iris-flower-dataset
